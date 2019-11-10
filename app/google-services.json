@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616624651131",
+    "firebase_url": "https://atlas-study-6a822.firebaseio.com",
+    "project_id": "atlas-study-6a822",
+    "storage_bucket": "atlas-study-6a822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616624651131:android:5b40e6080e99b368",
+        "android_client_info": {
+          "package_name": "com.simplex.atlasstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616624651131-akhl789cdu2vmv99hm5vgf0p6kbgfgdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplex.atlasstudy",
+            "certificate_hash": "f0e7940a549c503f56da16e72f90895113ca23ed"
+          }
+        },
+        {
+          "client_id": "616624651131-t3dj48jeis2afactq7an7ih049pk31i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hNdEZy9sXG14KJ7JOcdzZL9jTdWHCeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616624651131-t3dj48jeis2afactq7an7ih049pk31i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
